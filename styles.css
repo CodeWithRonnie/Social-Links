@@ -1,8 +1,5 @@
 body{
     background-color: black;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
     color: white;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
@@ -12,6 +9,8 @@ body{
 .main{
     display: block;
     margin: 0 auto;
+    margin-top: 20%;
+    margin-bottom: 20%;
     padding: 20px;
     width: 400px;
     height: auto;
@@ -68,7 +67,6 @@ button:hover{
 }
 
 .coded-by{
-    display: block;
     color: grey;
     text-align: center;
 }
