@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+} 
+
+.main{
+    display: block;
+    margin: 0 auto;
+    margin-top: 8%;
+    padding: 10px;
+    width: 400px;
+    height: auto;
+    background-color:  hsl(0, 0%, 12%) ;
+    border-radius: 10px;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+    color:  hsl(0, 0%, 100% );
+}
+
+.location{
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    line-height: 10px;
+}
+
+.title{
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    background-color:  hsl(0, 0%, 20%) ;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    width: 80%;
+    height: auto;
+} 
+
+button:hover{
+    background-color: hsl(75, 94%, 57%) ;
+}
+
+.Links{
+    color: hsl(0, 0%, 100% ) ;
+    padding: 10px;
+}
