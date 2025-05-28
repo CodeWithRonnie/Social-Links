@@ -68,3 +68,10 @@ button:hover{
     color: grey;
     text-align: center;
 }
+
+@media only screen and (max-width: 900px){
+    body{
+        width: 480px;
+        height: auto;
+    }
+}
